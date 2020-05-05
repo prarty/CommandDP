@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommandMenuTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-09T17:46:09" hostname="Pratibhas-MacBook-Pro.local" time="0.35">
+  <properties/>
+  <testcase name="shouldRunTheGivenMenuOption()" classname="CommandMenuTest" time="0.35"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dth.modal.CustomerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-02-09T17:46:10" hostname="Pratibhas-MacBook-Pro.local" time="0.06">
+  <properties/>
+  <testcase name="shouldDisplayBalanceForTheCustomer()" classname="com.dth.modal.CustomerTest" time="0.0"/>
+  <testcase name="shouldSubscribeGoldPack()" classname="com.dth.modal.CustomerTest" time="0.022"/>
+  <testcase name="shouldSubscribeLearnEnglishService()" classname="com.dth.modal.CustomerTest" time="0.013"/>
+  <testcase name="shouldRechargeAccountWithAmount500()" classname="com.dth.modal.CustomerTest" time="0.001"/>
+  <testcase name="shouldAddChannelInThePack()" classname="com.dth.modal.CustomerTest" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
